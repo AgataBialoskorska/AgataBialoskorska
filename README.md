@@ -1,16 +1,19 @@
-### Hi there 👋
+## Hi there 👋  I'm Agata  
 
-<!--
-**AgataBialoskorska/AgataBialoskorska** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+***
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 **I’m currently working on ...** 
+    - websites in JavaScript
+    - counting fuel economy in Python
+    - trying to say HELLO to the whole WORLD  
+    in each programing language  
+- 🌱 **I’m currently learning ...**
+    - everything from scratch in IT 🤯
+    - foreign languages
+- 💬 **Ask me about ...**
+    - whatever you want  
+    ...but in the morning when I'm well rested  
+- 📫 **How to reach me: ...**
+    - just write me an *[e-mail](mailto:%20abialoskorska@icloud.com)* 📧  
+- ⚡ **Fun fact: ...**
+    - I love to swing, make sandcastles and swimm in a lake

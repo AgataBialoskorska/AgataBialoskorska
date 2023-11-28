@@ -9,31 +9,43 @@
 ## Who I am?
 
 A person full of interests,
+
 curious about the world,
+
 creative,
+
 full of energy,
+
 driven by good music,
+
 spreading smiles and optimism.
 
 ## What do I like to do in my free time?
 
 Swim in the lake among woods.
+
 Learn new words in foreign languages.
+
 Watch automotive programs.
+
 Listen to different types of music.
 
 ## What I am going to do?
 
 I'm going to explore the world of frontend.
+
 I'm learning Vanilla JS and frameworks (currently Vue.js) from scratch.
+
 I try to create websites in accordance with good practices.
 
 ## What I've done?
 
 I said HELLO to the whole WORLD
 in several programming languages.
+
 I calculated fuel consumption in Python.
-I have created several websites in Vanilla Java Script (currently rewriting to framweworks). :smiling_face_with_hearts:
+
+I have created several websites in Vanilla Java Script (currently rewriting to framweworks).
 
 ## What I was working with?
 
